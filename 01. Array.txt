@@ -1,0 +1,8 @@
+01. Data Structure:
+– methods of managing large amounts of data
+
+02. Algorithm:
+– procedures to solve computational problems
+
+03. Array:
+
