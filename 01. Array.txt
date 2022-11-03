@@ -5,5 +5,19 @@
 – procedures to solve computational problems
 
 03. Array:
+- Same type of data
 
-What is Array?
+** Limitation:
+- What about other data
+- Time complexity
+- space complexity
+
+** Types of Array:
+- 1D Array
+- 2D Array
+
+** Array Operation:
+- Create
+- Read
+- Update
+- Delete
