@@ -6,3 +6,4 @@
 
 03. Array:
 
+What is Array?
