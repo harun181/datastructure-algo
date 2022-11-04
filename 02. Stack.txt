@@ -1,0 +1,9 @@
+** Stack:
+- Stup
+- Push(First In), Pop(First Out)
+- Je age asbe se age dhukbe
+- Ber houyar somoy o ager jon ber hobe
+
+**Uses:
+- Browser History
+- Trash Bin
